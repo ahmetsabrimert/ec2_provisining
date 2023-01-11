@@ -1,2 +1,2 @@
-# ec2_provisining
-ec2_provisining
+# ec2_provisioning
+ec2_provisioning
